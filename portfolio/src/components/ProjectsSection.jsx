@@ -18,6 +18,15 @@ const projects = [
     demoUrl: "https://trackly-frontend.onrender.com/",
     githubUrl: "https://github.com/Adityaraj-web/Trackly",
   },
+  {
+    id: 3,
+    title: "Nexora",
+    description: "Your Own AI-Powered Career Assistant",
+    image: "/projects/Project3.png",
+    tags: ["Next JS", "Shadcn UI", "Prisma", "Neon DB", "Inngest"],
+    demoUrl: "https://nexora-three-ecru.vercel.app/",
+    githubUrl: "https://github.com/Adityaraj-web/nexora",
+  },
 ];
 
 export const ProjectsSection = () => {
