@@ -6,8 +6,9 @@ const projects = [
     title: "AquaSense",
     description: "A water quality monitoring system using sensor data and simulated test data",
     image: "/projects/Project1.png",
-    tags: ["Javascript", "TailwindCSS", "Flask"],
-    githubUrl: "https://github.com/Adityaraj-web/aquasense",
+    tags: ["NextJS", "TailwindCSS", "Recharts"],
+    demoUrl: "https://aqua-sense-sigma.vercel.app/",
+    githubUrl: "https://github.com/Adityaraj-web/AquaSense",
   },
   {
     id: 2,
